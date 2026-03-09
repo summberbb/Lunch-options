@@ -17,7 +17,11 @@ const LUNCH_OPTIONS = [
   'Doner',
   'Bahn mi',
   'Bakery',
-  'Bugers 🍔',
+  'Souvlaki',
+  'Curry',
+  'Curry & Beer',
+  'Burgers 🍔',
+  'Somewhere new',
 ];
 
 // ── Your hosted wheel URL ─────────────────────────────────────
