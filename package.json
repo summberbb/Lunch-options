@@ -1,0 +1,12 @@
+{
+  "name": "lunch-roulette-server",
+  "version": "1.0.0",
+  "description": "Slack slash command server for Lunch Roulette",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
