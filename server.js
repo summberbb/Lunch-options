@@ -21,6 +21,7 @@ const LUNCH_OPTIONS = [
   'Curry',
   'Curry & Beer',
   'Burgers 🍔',
+  'Base Pizza',
   'Somewhere new',
 ];
 
