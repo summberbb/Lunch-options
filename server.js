@@ -23,7 +23,7 @@ const LUNCH_OPTIONS = [
 // ── Your hosted wheel URL ─────────────────────────────────────
 // After deploying lunch-wheel.html to Netlify (or anywhere),
 // paste the URL here:
-const WHEEL_URL = 'https://your-site.netlify.app/lunch-wheel.html';
+const WHEEL_URL = 'resplendent-youtiao-30267c.netlify.app;
 
 // ── Slash command handler ─────────────────────────────────────
 app.post('/lunch', (req, res) => {
